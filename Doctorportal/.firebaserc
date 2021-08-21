@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "doctorportal-a8eba": {
+      "hosting": {
+        "Doctorportal": [
+          "doctorportal-a8eba"
+        ]
+      }
+    }
+  }
+}
